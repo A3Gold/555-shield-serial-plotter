@@ -4,4 +4,4 @@ The goal of this project is to create a custom designed PCB, made to be inserted
 
 ## Video
 
-https://youtu.be/rPCMoFW3KKQ
+https://youtu.be/j5XVcA-pjjc
